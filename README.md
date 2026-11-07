@@ -8,7 +8,7 @@
 
 Introduction to Generative AI
 Platform: Coursera
-Verify Certificate (https://coursera.org/verify/NUP89IL650BE)
+Verify Certificate (https://coursera.org/verify/NUP89IL65OBF)
 
 
 Tableau Public for Project Management and Beyond
